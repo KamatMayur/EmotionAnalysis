@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ignore 7-zip files
+*.7z
+
+# ingore saved models
+*.joblib
+*.model
